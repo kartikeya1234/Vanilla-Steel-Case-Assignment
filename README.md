@@ -9,7 +9,7 @@ $ source Path/To/Venv/bin/activate
 ```
 - Install the requirements.
 ```bash
-$ pip install -r requirements.csv
+$ pip install -r requirements.txt
 ```
 ---
 ### Scenario A
